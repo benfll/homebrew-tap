@@ -16,7 +16,7 @@ cask "password-safe" do
   app "pwsafe.app"
 
   zap trash: [
-       "~/.pwsafe",
-       "~/Library/Preferences/org.pwsafe.pwsafe.plist",
-     ]
+    "~/.pwsafe",
+    "~/Library/Preferences/org.pwsafe.pwsafe.plist",
+  ]
 end
