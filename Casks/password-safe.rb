@@ -1,6 +1,6 @@
 cask "password-safe" do
-  version "1.25.0"
-  sha256 "a0165c9e4a8fbefb449c97a450bf57dde1fc12682d3d5d895335d9050c2e3588"
+  version "1.26.0"
+  sha256 "360f6721fdc44adfce1a9b2cb9ef00418c391fe708b2467df5bf95878e31fbe8"
 
   url "https://downloads.sourceforge.net/passwordsafe/PasswordSafe-macOS-#{version}-universal.dmg"
   name "pwsafe"
